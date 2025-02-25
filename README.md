@@ -55,8 +55,8 @@
     - Let it download, navigate to download and double click on it.
     - follow instructions to install Git
     - Set up the Global variables for Git:
-        - `git config --global [user.name](http://user.name/) <user_name>`
-        - `git config --global [user.email](http://user.email) <email>`
+        - `git config --global [user.name] <user_name>`
+        - `git config --global [user.email] <email>`
 
 # Environment Variables:
 
